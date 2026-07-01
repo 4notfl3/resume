@@ -22,37 +22,31 @@
 
 ### 🤖 AI Agent 生态（核心方向）
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastMCP](https://img.shields.io/badge/FastMCP-FF6B6B?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-> **ReAct · Function Calling · XML 工具调用 · RAG 检索增强 · MCP Server/Host 架构 · WebSocket 通信 · Plan-and-Execute 工作流**
+| 类别 | 技术 |
+|------|------|
+| **LLM / 框架** | Python、LangChain、LangGraph、FastMCP |
+| **工具调用** | ReAct、Function Calling、XML 解析 |
+| **检索增强** | RAG、Ollama、ChromaDB、文档分块与向量化 |
+| **Agent 架构** | MCP Server / Host 编排、WebSocket 通信、动态工具发现 |
+| **工作流** | Plan-and-Execute、状态机与图结构控制 |
 
 ### 🖥 后端开发
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+| 语言 / 框架 | 数据库 / 构建 |
+|-------------|---------------|
+| Java、Spring、Spring Boot | PostgreSQL |
+| Node.js、Express | Maven |
+| Python（FastMCP、Flask） | RESTful API 设计 |
 
 ### 🎨 前端开发
 
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+| 框架 | 语言 |
+|------|------|
+| Vue、React | JavaScript、TypeScript |
 
 ### 🔧 工具链
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Git、GitHub、Docker、Linux、Shell
 
 ---
 
@@ -141,10 +135,11 @@
 
 ### 📫 联系方式
 
-[![GitHub](https://img.shields.io/badge/GitHub-4notfl3-181717?style=for-the-badge&logo=github)](https://github.com/4notfl3)
-[![Email](https://img.shields.io/badge/Email-notcam83@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook)](mailto:notcam83@outlook.com)
-
-**手机**：17777142495 | **意向岗位**：AI Agent 开发实习生 | **到岗时间**：随时
+- **GitHub**：[github.com/4notfl3](https://github.com/4notfl3)
+- **Email**：notcam83@outlook.com
+- **手机**：17777142495
+- **意向岗位**：AI Agent 开发实习生
+- **到岗时间**：随时
 
 ---
 
