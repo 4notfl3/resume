@@ -72,8 +72,17 @@ Git、GitHub、Docker、Linux、Shell
 | 维度 | 详情 |
 |------|------|
 | **描述** | 从零实现完整 MCP Agent 链路（Server + Host + LLM），打通天气查询全流程 |
-| **技术栈** | `Python` `MCP` `SSE` `LLM` |
-| **亮点** | 独立解决 SSL 证书过期、GBK 编码等生产环境问题，API 响应时间 < 2 秒 |
+| **技术栈** | `FastMCP` `Python` `HTTP` `OpenAI Function Calling` |
+| **亮点** | Server 侧支持 HTTP 通信与动态工具发现；Host 侧实现多服务器并发连接、TTL 缓存与中文工具名安全映射，成功对接 OpenAI Function Calling 工具调用链路 |
+
+#### Agent Chat 全栈应用（独立开发）
+
+| 维度 | 详情 |
+|------|------|
+| **描述** | 从零实现 Agent Chat 全栈应用，涵盖 JWT 认证、SSE 流式对话、多模型切换及 MCP 广场 |
+| **技术栈** | `FastAPI` `Nuxt 3` `SQLite` `SSE` `JWT` `Docker` |
+| **亮点** | MCP 广场实现三级降级策略（远程 API → 缓存 → 8 个内置服务）；解决 SQLite WAL 异步并发、中文工具名 Schema 校验等工程问题 |
+| **源码** | [github.com/4notfl3/AI-Agent](https://github.com/4notfl3/AI-Agent) |
 
 #### RAG 检索增强生成系统（独立搭建）
 
